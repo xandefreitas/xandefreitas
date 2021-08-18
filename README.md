@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on mobile front-end
 - 🌱 I’m currently learning Flutter
-- 📫 How to reach me: xande_liborio@hotmail.com
+- 📫 How to reach me: xandefacs@gmail.com
 - 😄 Pronouns: he/his
 <div>
   <a href="https://github.com/xandefreitas">
