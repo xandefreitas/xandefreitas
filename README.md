@@ -1,6 +1,6 @@
 ### Hi there! I'm Alexandre Freitas 👋
 
-- 🔭 I’m currently working on mobile front-end
+- 🔭 I’m currently working as a mobile software developer
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: xande_liborio@hotmail.com
 - 😄 Pronouns: he/his
@@ -14,6 +14,12 @@
 <div style ="display: inline_block"><br>
   <img align="center" src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
   <img align="center" src='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white'>
+  <img align="center" src='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black'>
+  <img align="center" src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white'>
+  <img align="center" src='https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white'>
+  <img align="center" src='https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white'>
+  <img align="center" src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'>
+  <img align="center" src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'>
   <img align="center" src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white'>
   <img align="center" src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'>
   <img align="center" src='https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white'>
