@@ -1,7 +1,7 @@
 ### Hi there! I'm Alexandre Freitas 👋
 
-- <img align="center" height="40cm" src='https://media4.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif?cid=790b7611a8798a012c8d8a51065173a84bc2fc418ac8c906&rid=giphy.gif&ct=s'> I’m currently working as a mobile software developer
-- <img align="center" height="40cm" src='https://media2.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif?cid=790b7611972af6f95f0d7cd5d81ecadc613a53d9c66ae1a2&rid=giphy.gif&ct=s'> I’m currently learning Flutter
+- <img align="center" height="40cm" src='https://media4.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif?cid=790b7611a8798a012c8d8a51065173a84bc2fc418ac8c906&rid=giphy.gif&ct=s'> I’m currently working as a Flutter Software Developer
+- <img align="center" height="40cm" src='https://media2.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif?cid=790b7611972af6f95f0d7cd5d81ecadc613a53d9c66ae1a2&rid=giphy.gif&ct=s'> I’m currently learning Flutter and Kotlin
 - <img align="center" height="40cm" src='https://media2.giphy.com/media/WHziLihWq2nxOSPsSq/giphy.gif?cid=790b7611296a2ccd69273f13abc433a4d27c4cfc2ca7f489&rid=giphy.gif&ct=s'> How to reach me: alexandrefreitas.dev@gmail.com
 - <img align="center" height="40cm" src='https://31.media.tumblr.com/088786d466c3a315d6043b8e59d96770/tumblr_msu2ojWkqz1scncwdo1_500.gif'> Pronouns: He/Him
 
@@ -33,7 +33,7 @@
   
   <div>
     <a href="https://www.linkedin.com/in/alexandre-freitas-06b456182/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blank"></a>
-    <a href="mailto:xande_liborio@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target"_blank"></a>
+    <a href="mailto:alexandrefreitas.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target"_blank"></a>
   </div>
   
   ![Snake animation](https://github.com/xandefreitas/xandefreitas/blob/output/github-contribution-grid-snake.svg)
