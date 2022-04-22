@@ -12,8 +12,10 @@
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandefreitas&layout=compact&langs_count=8&theme=gruvbox"/img>
     <img height="180cm" src='https://mir-s3-cdn-cf.behance.net/project_modules/disp/32a56723434921.56323323e9cf9.gif'>
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=xandefreitas&count_private=true&show_icons=true&theme=gruvbox"/img>
- 
 </div>
+<div> 
+    Skills:
+  </div> 
 <div style ="display: inline_block"><br>
   <img align="center" src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
   <img align="center" src='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white'>
@@ -30,10 +32,14 @@
   </div>
   
   ##
+  </div>
+<div> 
+    Social:
+  </div>
   
-  <div>
-    <a href="https://www.linkedin.com/in/alexandre-freitas-06b456182/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blank"></a>
-    <a href="mailto:alexandrefreitas.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target"_blank"></a>
+<div style ="display: inline_block"><br>
+   <a href="https://www.linkedin.com/in/alexandre-freitas-06b456182/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blank"></a>
+   <a href="mailto:alexandrefreitas.dev@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target"_blank"></a>
   </div>
   
   ![Snake animation](https://github.com/xandefreitas/xandefreitas/blob/output/github-contribution-grid-snake.svg)
