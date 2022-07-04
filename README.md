@@ -10,7 +10,8 @@
 <div>
   <a href="https://github.com/xandefreitas">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandefreitas&layout=compact&langs_count=8&theme=gruvbox"/img>
-    <img height="180cm" src='https://mir-s3-cdn-cf.behance.net/project_modules/disp/32a56723434921.56323323e9cf9.gif'>
+    </a>
+    <img height="180cm" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/32a56723434921.56323323e9cf9.gif">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=xandefreitas&count_private=true&show_icons=true&theme=gruvbox"/img>
 </div>
 <div> 
