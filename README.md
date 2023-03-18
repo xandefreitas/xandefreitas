@@ -1,9 +1,9 @@
 ### Hi there! I'm Alexandre Freitas 👋
 
-- <img align="center" height="40cm" src='https://media4.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif?cid=790b7611a8798a012c8d8a51065173a84bc2fc418ac8c906&rid=giphy.gif&ct=s'> I’m currently working as a Flutter Software Developer
-- <img align="center" height="40cm" src='https://media2.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif?cid=790b7611972af6f95f0d7cd5d81ecadc613a53d9c66ae1a2&rid=giphy.gif&ct=s'> I’m currently learning Flutter
-- <img align="center" height="40cm" src='https://media2.giphy.com/media/WHziLihWq2nxOSPsSq/giphy.gif?cid=790b7611296a2ccd69273f13abc433a4d27c4cfc2ca7f489&rid=giphy.gif&ct=s'> How to reach me: alexandrefreitas.dev@gmail.com
-- <img align="center" height="40cm" src='https://31.media.tumblr.com/088786d466c3a315d6043b8e59d96770/tumblr_msu2ojWkqz1scncwdo1_500.gif'> Pronouns: He/Him
+- <img align="center" height="40cm" width="40cm" src='https://media4.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif?cid=790b7611a8798a012c8d8a51065173a84bc2fc418ac8c906&rid=giphy.gif&ct=s'> I’m currently working as a Flutter Software Developer
+- <img align="center" height="40cm" width="40cm" src='https://media2.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif?cid=790b7611972af6f95f0d7cd5d81ecadc613a53d9c66ae1a2&rid=giphy.gif&ct=s'> I’m currently learning Flutter
+- <img align="center" height="40cm" width="40cm" src='https://media2.giphy.com/media/WHziLihWq2nxOSPsSq/giphy.gif?cid=790b7611296a2ccd69273f13abc433a4d27c4cfc2ca7f489&rid=giphy.gif&ct=s'> How to reach me: alexandrefreitas.dev@gmail.com
+- <img align="center" height="40cm" width="40cm" src='https://31.media.tumblr.com/088786d466c3a315d6043b8e59d96770/tumblr_msu2ojWkqz1scncwdo1_500.gif'> Pronouns: He/Him
 
 ##
 
@@ -26,7 +26,11 @@
   <img align="center" src='https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white'>
   <img align="center" src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'>
   <img align="center" src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'>
+  <img align="center" src='https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white'>
+  <img align="center" src='https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white'>
   <img align="center" src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white'>
+  <img align="center" src='https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white'>
+  <img align="center" src='https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white'>
   <img align="center" src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'>
   <img align="center" src='https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white'>
   <img align="center" src='https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white'>
@@ -40,7 +44,7 @@
   
 <div style ="display: inline_block"><br>
    <a href="https://www.linkedin.com/in/alexandre-freitas-06b456182/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blank"></a>
-   <a href="mailto:alexandrefreitas.dev@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target"_blank"></a>
+   <a href="mailto:alexandrefreitas.dev@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target"_blank"></a>
   </div>
   
   ![Snake animation](https://github.com/xandefreitas/xandefreitas/blob/output/github-contribution-grid-snake.svg)
