@@ -1,7 +1,7 @@
 ### Hi there! I'm Alexandre Freitas 👋
 
 - <img align="center" height="40" width="40" src='https://media4.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif?cid=790b7611a8798a012c8d8a51065173a84bc2fc418ac8c906&rid=giphy.gif&ct=s'> I’m currently working as a Flutter Software Developer
-- <img align="center" height="40" width="40" src='https://media2.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif?cid=790b7611972af6f95f0d7cd5d81ecadc613a53d9c66ae1a2&rid=giphy.gif&ct=s'> I’m currently learning Flutter
+- <img align="center" height="40" width="40" src='https://media2.giphy.com/media/XSmHWLpvdycR6xukzC/giphy.gif?cid=790b7611972af6f95f0d7cd5d81ecadc613a53d9c66ae1a2&rid=giphy.gif&ct=s'> I’m currently learning Swift
 - <img align="center" height="40" width="40" src='https://media2.giphy.com/media/WHziLihWq2nxOSPsSq/giphy.gif?cid=790b7611296a2ccd69273f13abc433a4d27c4cfc2ca7f489&rid=giphy.gif&ct=s'> How to reach me: alexandrefreitas.dev@gmail.com
 - <img align="center" height="40" width="40" src='https://31.media.tumblr.com/088786d466c3a315d6043b8e59d96770/tumblr_msu2ojWkqz1scncwdo1_500.gif'> Pronouns: He/Him
 
